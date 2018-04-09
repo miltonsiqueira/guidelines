@@ -8,10 +8,7 @@
 
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
-* [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
-  * Add to your project folder [EditorConfig file](.editorconfig)
-* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
-  * Install prettier with eslint support: `npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier`.
+* [EditorConfig](editorconfig.md)
 
 ## Shortcut
 
