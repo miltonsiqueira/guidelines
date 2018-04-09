@@ -8,11 +8,14 @@
 
 ## Usage
 
-* Install eslint globally `npm intall eslint -g` or locally `npm intall eslint --save-dev`
+* Install eslint globally `npm install -g eslint eslint-plugin-import` or locally `npm install --save-dev eslint eslint-plugin-import`
 
 * Use Airbnb style guide
-  * Install globally `npm install -g eslint-config-airbnb` or locally `npm intall eslint-config-airbnb --save-dev`
+
+  * Install globally `npm install -g eslint-config-airbnb eslint-config-airbnb-base` or locally `npm intall --save-dev eslint-config-airbnb eslint-config-airbnb-base`
   * Add [.eslintrc](.eslintrc.json) in your root project folder.
+
+* Prettier integration `npm install -g prettier eslint-plugin-prettier` or `npm intall --save-dev eslint-plugin-prettier`
 
 ## Extensions for Visual Code
 
