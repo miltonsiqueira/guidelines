@@ -6,16 +6,88 @@
 * ESLint uses an AST to evaluate patterns in code.
 * ESLint is completely pluggable, every single rule is a plugin and you can add more at runtime.
 
-## Usage
+## Configuration file .eslintrc
 
-* Install eslint globally `npm install -g eslint eslint-plugin-import` or locally `npm install --save-dev eslint eslint-plugin-import`
+* The file can be one of them:
+  * JSON file: `.eslint.json`
+  * JS file: `.eslint.js`
+  * YAML: `.eslint.yml`
 
-* Use Airbnb style guide
+## Install
 
-  * Install globally `npm install -g eslint-config-airbnb eslint-config-airbnb-base` or locally `npm intall --save-dev eslint-config-airbnb eslint-config-airbnb-base`
-  * Add [.eslintrc](.eslintrc.json) in your root project folder.
+Global install:
 
-* Prettier integration `npm install -g prettier eslint-plugin-prettier` or `npm intall --save-dev eslint-plugin-prettier`
+```bash
+npm install -g eslint eslint-plugin-import
+```
+
+Local install:
+
+```bash
+npm install --save-dev eslint eslint-plugin-import
+```
+
+## Style guide
+
+Use the `eslint:recommended` for configuration.
+
+```json
+{
+  "extends": ["eslint:recommended"]
+}
+```
+
+Or use this [file](.eslintrc.json).
+
+## Prettier integration
+
+Global install:
+
+```bash
+npm install -g prettier eslint-plugin-prettier
+```
+
+Local install:
+
+```bash
+npm install --save-dev eslint-plugin-prettierr
+```
+
+Update your configuration file with:
+
+```json
+{
+  "extends": ["eslint:recommended", "prettier"],
+  "plugins": ["prettier"]
+}
+```
+
+Or use this [file](.eslintrc.json).
+
+## Node integration
+
+Global install:
+
+```bash
+npm install -g eslint eslint-plugin-node
+```
+
+Local install:
+
+```bash
+npm install --save-dev eslint eslint-plugin-node
+```
+
+Update your configuration file with:
+
+```json
+{
+  "extends": ["eslint:recommended"],
+  "plugins": ["node"]
+}
+```
+
+Or use this [file](.eslintrc.json).
 
 ## Extensions for Visual Code
 
