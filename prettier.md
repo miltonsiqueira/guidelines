@@ -14,4 +14,4 @@ Prettier is an opinionated code formatter with support for:
 ## Extentions for Visual Code
 
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
-  * Install prettier with eslint support: `npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier`.
+  * Install prettier with eslint support: `npm install -g prettier eslint-config-prettier eslint-plugin-prettier`.
