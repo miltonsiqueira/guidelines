@@ -10,6 +10,7 @@ It decribes the guidelines to be followed for some technologies and their tools.
 ## Tools
 
 * [Microsoft Visual](vs-code.md)
+* [ESLint](eslint.md)
 * [Markdown](markdown.md)
 * [EditorConfig](editorconfig.md)
 * [Prettier](prettier.md)
