@@ -1,10 +1,20 @@
 # Microsoft Visual Code
 
+## Config
+
+* Enable auto format on save `"editor.formatOnSave": true` . [How to change the vs-code settings](https://code.visualstudio.com/docs/getstarted/settings).
+
 ## Extensions
 
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+* [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
+  * Add to your project folder [EditorConfig file](.editorconfig)
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
+  * Install prettier with eslint support: `npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier`.
 
-## Languages
+## Shortcut
 
-* [Angular](angular-vs-code.md)
+* Change tabs:
+  * `Mac: cmd + option + <left-or-right-arrow-key>`
+  * `Win: CTRL + PAGE_UP or CTRL + PAGE_DOWN`
