@@ -19,6 +19,7 @@
 ## Extensions for Microsoft Visual Studio Code
 
 * [General VS Code extensions](vs-code.md).
+* [Prettier](prettier.md)
 * [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
   * Add package `npm install eslint --save-dev`
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport).
@@ -26,9 +27,7 @@
 * [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense).
 * [Npm support for VS Code](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 
-# Project Files
-
-# References
+## References
 
 * [Video [Node.js] - Workflow para novos projetos](https://www.youtube.com/watch?v=uasNZldNPys)
 * [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)

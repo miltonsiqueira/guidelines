@@ -1,10 +1,10 @@
 # Angular Guidelines
 
-* Follow the [oficial Angular Styleguide](https://angular.io/styleguide)
+## Official Angular Styleguide
 
-## Tools
+Follow the [Official Angular Styleguide](https://angular.io/styleguide).
 
-* [angular2-switcher](infinity1207.angular2-switcher).
+Some of them are checked by [tslint](https://github.com/palantir/tslint). Install tslint extentions related below.
 
 ## Extensions for Microsoft Visual Code
 
