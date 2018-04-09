@@ -20,8 +20,7 @@
 
 * [General VS Code extensions](vs-code.md).
 * [Prettier](prettier.md)
-* [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
-  * Add package `npm install eslint --save-dev`
+* [ESLint](eslint.md)
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport).
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag).
 * [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense).
