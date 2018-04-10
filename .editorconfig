@@ -6,12 +6,19 @@ root = true
 [*]
 trim_trailing_whitespace = true
 
-[*.{js,py,ts}]
+[*.{js,py,ts,md,java}]
 charset = utf-8
+
+[*.java]
+indent_size = 4
+indent_style = space
+trim_trailing_whitespace = true
 
 [*.md]
 max_line_length = off
 trim_trailing_whitespace = false
+indent_style = space
+indent_size = 2
 
 [*.py]
 indent_style = space

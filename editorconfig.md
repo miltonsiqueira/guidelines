@@ -6,6 +6,10 @@
 
 The [file](.editorconfig) has the basic formatting for some file types. Add this file into your project folder.
 
-## Visual Code Extention
+## Visual Code Extension
 
 * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
+
+## Eclipse Plugin
+
+* [editorconfig-eclipse by Nathan Jones](http://marketplace.eclipse.org/content/editorconfig-eclipse)

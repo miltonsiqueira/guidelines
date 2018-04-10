@@ -18,12 +18,12 @@
 
 ## Extensions for Microsoft Visual Studio Code
 
-* [General VS Code extensions](vs-code.md).
+* [General VS Code extensions](vs-code.md)
 * [Prettier](prettier.md)
 * [ESLint](eslint.md)
-* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport).
-* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag).
-* [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense).
+* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+* [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 * [Npm support for VS Code](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 
 ## References

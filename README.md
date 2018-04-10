@@ -6,6 +6,7 @@ It decribes the guidelines to be followed for some technologies and their tools.
 
 * [NodeJs](nodejs.md)
 * [Angular](angular.md)
+* [Java](java.md)
 
 ## Tools
 
