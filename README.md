@@ -15,3 +15,5 @@ It decribes the guidelines to be followed for some technologies and their tools.
 * [Markdown](markdown.md)
 * [EditorConfig](editorconfig.md)
 * [Prettier](prettier.md)
+* [Checkstyle](checkstyle/checkstyle.md)
+* [Findbugs](findbugs.md)
