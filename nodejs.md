@@ -8,7 +8,6 @@
 
 ## Config .npmrc
 
-* `npm config set progress false`. For Windows uses, turn off the progress bar to improve the performance [link](https://www.youtube.com/watch?v=uasNZldNPys#t=25m45s).
 * `npm config set save-exact true`. To keep consistent package dependencies between all your environments [link](https://devcenter.heroku.com/articles/node-best-practices)
 
 ## Project
