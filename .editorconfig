@@ -31,3 +31,6 @@ indent_size = 2
 [{*.js,package.json,.travis.yml,.eslintrc,}]
 indent_style = space
 indent_size = 2
+
+[*.ts]
+quote_type = single
