@@ -3,7 +3,9 @@
 ## Diff with .docx files
 
 * [Install Pandoc](http://pandoc.org/installing.html)
-* Create or edit file `~/.gitconfig` (Linux, Mac) or `%HOMEDRIVE%%HOMEPATH%` (Windows) to add:
+* Create or edit file `.gitconfig`
+  * Linux / Mac: `~/.gitconfig`.
+  * Windows: `%HOMEDRIVE%%HOMEPATH%\.gitconfig`.
 
 ```ini
 [diff "pandoc"]

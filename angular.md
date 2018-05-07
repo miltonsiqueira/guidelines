@@ -4,7 +4,8 @@
 
 Follow the [Official Angular Styleguide](https://angular.io/styleguide).
 
-Some of them are checked by [tslint](https://github.com/palantir/tslint). Install tslint extensions related below.
+Some of them are checked by [tslint](https://github.com/palantir/tslint).
+See in extensions bellow.
 
 ## Extensions for Microsoft Visual Code
 

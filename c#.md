@@ -4,5 +4,6 @@
 
 ## Extensions for Microsoft Visual Studio
 
-* [StyleCop](https://github.com/StyleCop/StyleCop) analyzes C# source code to enforce a set of style and consistency rules
+* [StyleCop](https://github.com/StyleCop/StyleCop) analyzes C# source code to
+  enforce a set of style and consistency rules.
 * [Code Formatter](https://marketplace.visualstudio.com/items?itemName=vs-publisher-599079.CodeFormatter)
