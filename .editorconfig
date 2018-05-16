@@ -6,7 +6,7 @@ root = true
 [*]
 trim_trailing_whitespace = true
 
-[*.{js,py,ts,md,java}]
+[*.{js,py,ts,md,java,yaml,yml}]
 charset = utf-8
 
 [*.java]
@@ -34,3 +34,7 @@ indent_size = 2
 
 [*.ts]
 quote_type = single
+
+[*.{yaml,yml}]
+indent_style = space
+indent_size = 2
