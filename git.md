@@ -26,3 +26,11 @@
 ```shell
 git wdiff [your_file.docx]
 ```
+
+## Extensions for Microsoft Visual Code
+
+* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+* [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+* [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
