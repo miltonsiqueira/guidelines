@@ -12,3 +12,4 @@
 * [FxCop](<https://msdn.microsoft.com/en-us/library/bb429476(VS.80).aspx>)
   analyzes managed code assemblies.
 * [Format document on Save](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)
+* [Microsoft Code Analysis 2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2017)
