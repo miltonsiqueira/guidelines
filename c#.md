@@ -14,4 +14,7 @@
 * [Microsoft Code Analysis 2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2017)
 * [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid).
   Open its configuration and marks true in
-  `General -> Cleaning -> "Automatically run cleanup on file save"`
+  `General -> Cleaning -> "Automatically run cleanup on file save"`.
+  Also, uncheck `General -> Visual Studio -> "Skip during automatic cleanup on save"`.
+  Click on `Switch to Solution-Specific Settings` and then save the configuration,
+  to create a CodeMaid configuration file in your project.
