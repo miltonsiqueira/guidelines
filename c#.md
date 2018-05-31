@@ -13,3 +13,4 @@
   analyzes managed code assemblies.
 * [Format document on Save](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)
 * [Microsoft Code Analysis 2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2017)
+* [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
