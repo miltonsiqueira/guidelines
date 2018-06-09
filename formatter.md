@@ -4,10 +4,10 @@ Para usar no Eclipse, acesse arquivo "eclipse.txt"
 Formatter no Eclipse baseado no checkstyle
 1 - Configurao
 _ Windows->Preference->Java->Code Style->Formatter
-_ Clique em Import, escolha o arquivo "eclipse_formatter.xml"
-_ Deixe o novo formatter "eclipse-cs custom" como "Active profile"
+_ Clique em Import, escolha o arquivo "eclipse*formatter.xml"
+* Deixe o novo formatter "eclipse-cs custom" como "Active profile"
 2 - Utilizao
-_ Dentro da janela do arquivo java faa: Ctrl + Shift + F
+\_ Dentro da janela do arquivo java faa: Ctrl + Shift + F
 
     3 - (Opcional) Formatar automaticamente ao salvar arquivo
     	* Windows->Preference->Java->Editor->Save Actions
@@ -35,5 +35,3 @@ _ Dentro da janela do arquivo java faa: Ctrl + Shift + F
     	* Line wrapping->General Settings->marque "Never join already wrapped lines"
     	* Deixe o formatter "eclise-cs custom" selecionado e clique ok
     	* Quando o arquivo "custom_checks.xml" for modificado repita as operaes de Configurao do plugin(2.1) e de criao do formatter(2.2)
-
-
