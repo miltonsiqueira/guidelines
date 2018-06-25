@@ -8,24 +8,24 @@
 
 ## Config .npmrc
 
-* `npm config set save-exact true`. To keep consistent package dependencies between all your environments [link](https://devcenter.heroku.com/articles/node-best-practices)
+- `npm config set save-exact true`. To keep consistent package dependencies between all your environments [link](https://devcenter.heroku.com/articles/node-best-practices)
 
 ## Project
 
-* Add config files
-  * [.gitignore](https://www.gitignore.io/api/node)
+- Add config files
+  - [.gitignore](https://www.gitignore.io/api/node)
 
 ## Extensions for Microsoft Visual Studio Code
 
-* [General VS Code extensions](vs-code.md)
-* [Prettier](prettier.md)
-* [ESLint](eslint.md)
-* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-* [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-* [Npm support for VS Code](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+- [General VS Code extensions](vs-code.md)
+- [Prettier](prettier.md)
+- [ESLint](eslint.md)
+- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [Npm support for VS Code](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 
 ## References
 
-* [Video [Node.js] - Workflow para novos projetos](https://www.youtube.com/watch?v=uasNZldNPys)
-* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
+- [Video [Node.js] - Workflow para novos projetos](https://www.youtube.com/watch?v=uasNZldNPys)
+- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)

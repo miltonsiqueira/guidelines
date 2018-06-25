@@ -8,8 +8,8 @@ The [file](.editorconfig) has the basic formatting for some file types. Add this
 
 ## Visual Code Extension
 
-* [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
 
 ## Eclipse Plugin
 
-* [editorconfig-eclipse by Nathan Jones](http://marketplace.eclipse.org/content/editorconfig-eclipse)
+- [editorconfig-eclipse by Nathan Jones](http://marketplace.eclipse.org/content/editorconfig-eclipse)
