@@ -18,3 +18,4 @@
   Also, uncheck `General -> Visual Studio -> "Skip during automatic cleanup on save"`.
   Click on `Switch to Solution-Specific Settings` and then save the configuration,
   to create a CodeMaid configuration file in your project.
+* [Developer Assistant](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.DeveloperAssistant)
